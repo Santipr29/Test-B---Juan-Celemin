@@ -1,4 +1,3 @@
-// src/app/components/basecard.component.ts
 import { Component, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
 

@@ -1,4 +1,3 @@
-// src/stories/basecard.stories.ts
 import type { Meta, StoryObj } from '@storybook/angular';
 import { BasecardComponent } from '../app/components/basecard.component';
 
